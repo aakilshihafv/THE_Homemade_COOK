@@ -70,12 +70,15 @@ Follow these steps to get Homemade COOK up and running on your local machine:
 - MongoDB
 
 ## Screenshots
+![Login](https://github.com/aakilshihafv/the_Homemade_Cook/blob/main/image/Login.png)
 
-![Add Recipe](https://github.com/aakilshihafv/the_Homemade_Cook/blob/image/Add%20Recipe.png)
-![Login](https://github.com/aakilshihafv/the_Homemade_Cook/blob/master/image/Login.png)
-![Recipe Details](https://github.com/aakilshihafv/the_Homemade_Cook/blob/master/image/Recipe%20Details.png)
-![Register](https://github.com/aakilshihafv/the_Homemade_Cook/blob/master/image/Register.png)
-![Saved Recipe](https://github.com/aakilshihafv/the_Homemade_Cook/blob/master/image/Saved%20Recipe.png)
+![Register](https://github.com/aakilshihafv/the_Homemade_Cook/blob/main/image/Register.png)
+
+![Add Recipe](https://github.com/aakilshihafv/the_Homemade_Cook/blob/main/image/Add%20Recipe.png)
+
+![Recipe Details](https://github.com/aakilshihafv/the_Homemade_Cook/blob/main/image/Recipe%20Details.png)
+
+![Saved Recipe](https://github.com/aakilshihafv/the_Homemade_Cook/blob/main/image/Saved%20Recipe.png)
 
 ## Contributing
 
